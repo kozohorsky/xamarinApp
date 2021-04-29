@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z2W9qDy9BbPeqRqLx4p3sjFQezRR4n1sVfEbR+2WLlMrniy77kdSBGynkNmoEIndmpul0yGgBaY9EX7SKM6DEQ==",
+  "success": true,
+  "projectFilePath": "/Users/vladimirkozohorsky/Projects/xamarinDiplomovaPrace/xamarinDiplomovaPrace.iOS/xamarinDiplomovaPrace.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/vladimirkozohorsky/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/vladimirkozohorsky/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/vladimirkozohorsky/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
